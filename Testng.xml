@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="ramana" verbose="1" >
+  <test name="Nopackage" >
+    <classes>
+       <class name="com.hrms.testscript.TC__1" />
+       <class name="com.hrms.testscript.TC__2"/>
+       <class name ="com.hrms.testscript.TC__3"/>
+    </classes>
+  </test>
+</suite>
